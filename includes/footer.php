@@ -8,8 +8,6 @@
 	<script src="js/cipher.js"></script>
 	<!-- Kết nối file js/sendmsg.js -->
 	<script src="js/sendmsg.js"></script>
-    <!-- Kết nối file js/senddecrypt.js -->
-	<script src="js/senddecrypt.js"></script>
 	<!-- Kết nối file js/autoload.js -->
 	<script src="js/autoload.js"></script>
 </body>
