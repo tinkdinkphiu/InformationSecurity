@@ -1,0 +1,6 @@
+@media screen and (max-width: 738px) {
+.main-chat,
+.main-decrypt {
+    width: 100%;
+}
+}
